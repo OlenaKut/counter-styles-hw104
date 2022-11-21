@@ -84,6 +84,4 @@ function ButtonExampleGroupOrSize() {
     </div>
   );
 }
-
-
 export default ButtonExampleGroupOrSize;
